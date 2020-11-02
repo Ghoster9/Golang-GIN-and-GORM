@@ -1,0 +1,7 @@
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Mon, 02 Nov 2020 04:50:29 GMT
+Content-Length: 145
+Connection: close
+
+[{"Id":0,"Nama":"Jack","Pekerjaan":"Programmer","Email":"jack@name.com"},{"Id":1,"Nama":"Jack","Pekerjaan":"Programmer","Email":"jack@name.com"}]
